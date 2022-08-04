@@ -1,10 +1,8 @@
-### Hi there 👋
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"></a>
+## Hi there 👋
+### I'm Vinay Kumar, a final year Computer Scienece student.
 
-<!--
-**vinaykumar-07/vinaykumar-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## About Me!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## Github Statistics  
+![Github stats](https://github-readme-stats.vercel.app/api?username=vinaykumar-07)&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar-07)
+
+<br>
+<br>
+
+![wave](https://user-images.githubusercontent.com/88260268/174339678-23316147-4dd0-4107-8420-7ac259e30fa3.svg)
