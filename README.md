@@ -3,7 +3,7 @@
 ### I'm Vinay Kumar, a final year Computer Scienece student.
 
 ## About Me!
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on development projects.
 - 💬 Ask me about C, C++, DSA
