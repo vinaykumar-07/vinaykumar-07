@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on development projects.
-- 💬 Ask me about C, C++, DSA
-- 📫 How to reach me: vinaysinghal29012000@gmail.com
+- 💬 Ask me about C, C++, DSA, Flutter
+- 📫 How to reach me: vinay29kum@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: engineering krlo guys life set hai XD
 
