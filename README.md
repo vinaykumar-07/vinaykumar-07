@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"></a>
 ## Hi there 👋
-### I'm Vinay Kumar, a final year Computer Scienece student.
+### I'm Vinay Kumar, Flutterr Developer Computer Scienece student.
 
 ## About Me!
 - 🔭 I’m currently working on flutter.
